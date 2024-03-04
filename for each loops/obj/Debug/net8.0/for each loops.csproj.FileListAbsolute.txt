@@ -1,0 +1,15 @@
+C:\Users\kyana\OneDrive\Desktop\see-sharp\for each loops\bin\Debug\net8.0\for each loops.exe
+C:\Users\kyana\OneDrive\Desktop\see-sharp\for each loops\bin\Debug\net8.0\for each loops.deps.json
+C:\Users\kyana\OneDrive\Desktop\see-sharp\for each loops\bin\Debug\net8.0\for each loops.runtimeconfig.json
+C:\Users\kyana\OneDrive\Desktop\see-sharp\for each loops\bin\Debug\net8.0\for each loops.dll
+C:\Users\kyana\OneDrive\Desktop\see-sharp\for each loops\bin\Debug\net8.0\for each loops.pdb
+C:\Users\kyana\OneDrive\Desktop\see-sharp\for each loops\obj\Debug\net8.0\for each loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyana\OneDrive\Desktop\see-sharp\for each loops\obj\Debug\net8.0\for each loops.AssemblyInfoInputs.cache
+C:\Users\kyana\OneDrive\Desktop\see-sharp\for each loops\obj\Debug\net8.0\for each loops.AssemblyInfo.cs
+C:\Users\kyana\OneDrive\Desktop\see-sharp\for each loops\obj\Debug\net8.0\for each loops.csproj.CoreCompileInputs.cache
+C:\Users\kyana\OneDrive\Desktop\see-sharp\for each loops\obj\Debug\net8.0\for each loops.sourcelink.json
+C:\Users\kyana\OneDrive\Desktop\see-sharp\for each loops\obj\Debug\net8.0\for each loops.dll
+C:\Users\kyana\OneDrive\Desktop\see-sharp\for each loops\obj\Debug\net8.0\refint\for each loops.dll
+C:\Users\kyana\OneDrive\Desktop\see-sharp\for each loops\obj\Debug\net8.0\for each loops.pdb
+C:\Users\kyana\OneDrive\Desktop\see-sharp\for each loops\obj\Debug\net8.0\for each loops.genruntimeconfig.cache
+C:\Users\kyana\OneDrive\Desktop\see-sharp\for each loops\obj\Debug\net8.0\ref\for each loops.dll
