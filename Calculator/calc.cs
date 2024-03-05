@@ -47,7 +47,7 @@ do
         case "/":
             result = num1 / num2;
             Console.WriteLine("it's: " + result);
-            break;
+            break;z
         // if none above are chosen, the default will perform!
         default:
             Console.WriteLine("Thats not a valid option");
