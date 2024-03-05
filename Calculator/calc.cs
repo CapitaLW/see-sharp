@@ -1,11 +1,7 @@
 ﻿
-internal class Program
-{
-    private static void Main(string[] args)
-    {
         do
 #pragma warning disable CS8602 // Dereference of a possibly null reference.
-        {
+        
             //declare and initialize variables
             double num1 = 0;
             double num2 = 0;
@@ -59,7 +55,7 @@ internal class Program
             }
             Console.Write("would you like to calculate again? (Y/N): ");
 
-        } while (Console.ReadLine().Equals("Y", StringComparison.CurrentCultureIgnoreCase));
+        while (Console.ReadLine().Equals("Y", StringComparison.CurrentCultureIgnoreCase));
 #pragma warning restore CS8602; // Dereference of a possibly null reference.
 
 
@@ -68,5 +64,4 @@ Console.WriteLine("Bye!");
 
         // less garble hopefully!
         Console.ReadKey();
-    }
-}
+
