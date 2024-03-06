@@ -1,0 +1,15 @@
+C:\Users\kyana\OneDrive\Desktop\see-sharp\dacalc\obj\Debug\net8.0\dacalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyana\OneDrive\Desktop\see-sharp\dacalc\obj\Debug\net8.0\dacalc.AssemblyInfoInputs.cache
+C:\Users\kyana\OneDrive\Desktop\see-sharp\dacalc\obj\Debug\net8.0\dacalc.AssemblyInfo.cs
+C:\Users\kyana\OneDrive\Desktop\see-sharp\dacalc\obj\Debug\net8.0\dacalc.csproj.CoreCompileInputs.cache
+C:\Users\kyana\OneDrive\Desktop\see-sharp\dacalc\obj\Debug\net8.0\dacalc.sourcelink.json
+C:\Users\kyana\OneDrive\Desktop\see-sharp\dacalc\bin\Debug\net8.0\dacalc.exe
+C:\Users\kyana\OneDrive\Desktop\see-sharp\dacalc\bin\Debug\net8.0\dacalc.deps.json
+C:\Users\kyana\OneDrive\Desktop\see-sharp\dacalc\bin\Debug\net8.0\dacalc.runtimeconfig.json
+C:\Users\kyana\OneDrive\Desktop\see-sharp\dacalc\bin\Debug\net8.0\dacalc.dll
+C:\Users\kyana\OneDrive\Desktop\see-sharp\dacalc\bin\Debug\net8.0\dacalc.pdb
+C:\Users\kyana\OneDrive\Desktop\see-sharp\dacalc\obj\Debug\net8.0\dacalc.dll
+C:\Users\kyana\OneDrive\Desktop\see-sharp\dacalc\obj\Debug\net8.0\refint\dacalc.dll
+C:\Users\kyana\OneDrive\Desktop\see-sharp\dacalc\obj\Debug\net8.0\dacalc.pdb
+C:\Users\kyana\OneDrive\Desktop\see-sharp\dacalc\obj\Debug\net8.0\dacalc.genruntimeconfig.cache
+C:\Users\kyana\OneDrive\Desktop\see-sharp\dacalc\obj\Debug\net8.0\ref\dacalc.dll
