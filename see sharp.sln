@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "for each loops", "for each 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "THE METHODS", "THE METHODS\THE METHODS.csproj", "{A23AEC65-A2C8-4ADE-A7D9-6BBC4931B970}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dacalc", "dacalc\dacalc.csproj", "{D6438A0A-D259-4DA6-AE5B-5877C400901D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{A23AEC65-A2C8-4ADE-A7D9-6BBC4931B970}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A23AEC65-A2C8-4ADE-A7D9-6BBC4931B970}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A23AEC65-A2C8-4ADE-A7D9-6BBC4931B970}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6438A0A-D259-4DA6-AE5B-5877C400901D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6438A0A-D259-4DA6-AE5B-5877C400901D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6438A0A-D259-4DA6-AE5B-5877C400901D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6438A0A-D259-4DA6-AE5B-5877C400901D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
