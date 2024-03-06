@@ -52,7 +52,9 @@ switch (Console.ReadLine())
 
     Console.Write("would you like to calculate again? (Y/N): ");
 
+#pragma warning disable CS8602 // Dereference of a possibly null reference.
     while (Console.ReadLine().Equals("Y", StringComparison.CurrentCultureIgnoreCase)) ;
+#pragma warning restore CS8602 // Dereference of a possibly null reference.
 
 
     Console.WriteLine("Bye!");
