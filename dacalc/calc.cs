@@ -1,9 +1,9 @@
-﻿
-        do
-            //declare and initialize variables
-            double num1 = 0;
-            double num2 = 0;
-            double result = 0;
+
+do
+//declare and initialize variables
+double num1 = 0;
+double num2 = 0;
+double result = 0;
 
 
             //title
