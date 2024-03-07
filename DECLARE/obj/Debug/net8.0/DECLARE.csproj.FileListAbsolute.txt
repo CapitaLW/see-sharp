@@ -3,3 +3,13 @@ C:\Users\kyana\OneDrive\Desktop\see-sharp\DECLARE\obj\Debug\net8.0\DECLARE.Assem
 C:\Users\kyana\OneDrive\Desktop\see-sharp\DECLARE\obj\Debug\net8.0\DECLARE.AssemblyInfo.cs
 C:\Users\kyana\OneDrive\Desktop\see-sharp\DECLARE\obj\Debug\net8.0\DECLARE.csproj.CoreCompileInputs.cache
 C:\Users\kyana\OneDrive\Desktop\see-sharp\DECLARE\obj\Debug\net8.0\DECLARE.sourcelink.json
+C:\Users\kyana\OneDrive\Desktop\see-sharp\DECLARE\bin\Debug\net8.0\DECLARE.exe
+C:\Users\kyana\OneDrive\Desktop\see-sharp\DECLARE\bin\Debug\net8.0\DECLARE.deps.json
+C:\Users\kyana\OneDrive\Desktop\see-sharp\DECLARE\bin\Debug\net8.0\DECLARE.runtimeconfig.json
+C:\Users\kyana\OneDrive\Desktop\see-sharp\DECLARE\bin\Debug\net8.0\DECLARE.dll
+C:\Users\kyana\OneDrive\Desktop\see-sharp\DECLARE\bin\Debug\net8.0\DECLARE.pdb
+C:\Users\kyana\OneDrive\Desktop\see-sharp\DECLARE\obj\Debug\net8.0\DECLARE.dll
+C:\Users\kyana\OneDrive\Desktop\see-sharp\DECLARE\obj\Debug\net8.0\refint\DECLARE.dll
+C:\Users\kyana\OneDrive\Desktop\see-sharp\DECLARE\obj\Debug\net8.0\DECLARE.pdb
+C:\Users\kyana\OneDrive\Desktop\see-sharp\DECLARE\obj\Debug\net8.0\DECLARE.genruntimeconfig.cache
+C:\Users\kyana\OneDrive\Desktop\see-sharp\DECLARE\obj\Debug\net8.0\ref\DECLARE.dll
