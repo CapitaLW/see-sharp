@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "THE METHODS", "THE METHODS\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dacalc", "dacalc\dacalc.csproj", "{D6438A0A-D259-4DA6-AE5B-5877C400901D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DECLARE", "DECLARE\DECLARE.csproj", "{57579E41-72C5-498D-A5D6-6C8338E1064D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{D6438A0A-D259-4DA6-AE5B-5877C400901D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6438A0A-D259-4DA6-AE5B-5877C400901D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6438A0A-D259-4DA6-AE5B-5877C400901D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57579E41-72C5-498D-A5D6-6C8338E1064D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57579E41-72C5-498D-A5D6-6C8338E1064D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57579E41-72C5-498D-A5D6-6C8338E1064D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57579E41-72C5-498D-A5D6-6C8338E1064D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

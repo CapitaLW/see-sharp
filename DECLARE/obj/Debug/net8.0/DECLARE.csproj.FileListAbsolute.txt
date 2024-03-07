@@ -1,0 +1,5 @@
+C:\Users\kyana\OneDrive\Desktop\see-sharp\DECLARE\obj\Debug\net8.0\DECLARE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyana\OneDrive\Desktop\see-sharp\DECLARE\obj\Debug\net8.0\DECLARE.AssemblyInfoInputs.cache
+C:\Users\kyana\OneDrive\Desktop\see-sharp\DECLARE\obj\Debug\net8.0\DECLARE.AssemblyInfo.cs
+C:\Users\kyana\OneDrive\Desktop\see-sharp\DECLARE\obj\Debug\net8.0\DECLARE.csproj.CoreCompileInputs.cache
+C:\Users\kyana\OneDrive\Desktop\see-sharp\DECLARE\obj\Debug\net8.0\DECLARE.sourcelink.json
