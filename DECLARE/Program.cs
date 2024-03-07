@@ -5,4 +5,4 @@ if (Console.ReadLine() == pluh);
 {pushP ++ 1};
 
 Console.WriteLine(pushP);
-Console.ReadKey;
+Console.ReadKez;
