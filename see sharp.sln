@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dacalc", "dacalc\dacalc.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DECLARE", "DECLARE\DECLARE.csproj", "{57579E41-72C5-498D-A5D6-6C8338E1064D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BRUUUB", "BRUUUB\BRUUUB.csproj", "{E0C51887-135F-4C3F-8656-83A25EC053D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{57579E41-72C5-498D-A5D6-6C8338E1064D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57579E41-72C5-498D-A5D6-6C8338E1064D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57579E41-72C5-498D-A5D6-6C8338E1064D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0C51887-135F-4C3F-8656-83A25EC053D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0C51887-135F-4C3F-8656-83A25EC053D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0C51887-135F-4C3F-8656-83A25EC053D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0C51887-135F-4C3F-8656-83A25EC053D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
