@@ -1,15 +1,15 @@
-﻿internal class Program
+﻿string [] cars = {"BMW", "Audi", "Mercedes", "Volvo", "Toy"};
+
+for (int i = 0; i < cars.Length; i++)
 {
-    private static void Main(string[] args)
-    {
-        
-
-
-
-
-
-        
-        // plug
-        Console.ReadKey();
-    }
+    Console.WriteLine(cars);
 }
+
+foreach (string car in cars) 
+{
+    Console.WriteLine(car);
+}
+
+        
+// plug
+Console.ReadKey();

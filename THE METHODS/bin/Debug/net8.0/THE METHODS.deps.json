@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "THE METHODS/1.0.0": {
+        "runtime": {
+          "THE METHODS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "THE METHODS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

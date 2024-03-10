@@ -1,0 +1,15 @@
+C:\Users\kyana\OneDrive\Desktop\see-sharp\THE METHODS\bin\Debug\net8.0\THE METHODS.exe
+C:\Users\kyana\OneDrive\Desktop\see-sharp\THE METHODS\bin\Debug\net8.0\THE METHODS.deps.json
+C:\Users\kyana\OneDrive\Desktop\see-sharp\THE METHODS\bin\Debug\net8.0\THE METHODS.runtimeconfig.json
+C:\Users\kyana\OneDrive\Desktop\see-sharp\THE METHODS\bin\Debug\net8.0\THE METHODS.dll
+C:\Users\kyana\OneDrive\Desktop\see-sharp\THE METHODS\bin\Debug\net8.0\THE METHODS.pdb
+C:\Users\kyana\OneDrive\Desktop\see-sharp\THE METHODS\obj\Debug\net8.0\THE METHODS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyana\OneDrive\Desktop\see-sharp\THE METHODS\obj\Debug\net8.0\THE METHODS.AssemblyInfoInputs.cache
+C:\Users\kyana\OneDrive\Desktop\see-sharp\THE METHODS\obj\Debug\net8.0\THE METHODS.AssemblyInfo.cs
+C:\Users\kyana\OneDrive\Desktop\see-sharp\THE METHODS\obj\Debug\net8.0\THE METHODS.csproj.CoreCompileInputs.cache
+C:\Users\kyana\OneDrive\Desktop\see-sharp\THE METHODS\obj\Debug\net8.0\THE METHODS.sourcelink.json
+C:\Users\kyana\OneDrive\Desktop\see-sharp\THE METHODS\obj\Debug\net8.0\THE METHODS.dll
+C:\Users\kyana\OneDrive\Desktop\see-sharp\THE METHODS\obj\Debug\net8.0\refint\THE METHODS.dll
+C:\Users\kyana\OneDrive\Desktop\see-sharp\THE METHODS\obj\Debug\net8.0\THE METHODS.pdb
+C:\Users\kyana\OneDrive\Desktop\see-sharp\THE METHODS\obj\Debug\net8.0\THE METHODS.genruntimeconfig.cache
+C:\Users\kyana\OneDrive\Desktop\see-sharp\THE METHODS\obj\Debug\net8.0\ref\THE METHODS.dll
