@@ -1,0 +1,15 @@
+C:\Users\kyana\OneDrive\Desktop\see-sharp\Ret Keywords\bin\Debug\net8.0\Ret Keywords.exe
+C:\Users\kyana\OneDrive\Desktop\see-sharp\Ret Keywords\bin\Debug\net8.0\Ret Keywords.deps.json
+C:\Users\kyana\OneDrive\Desktop\see-sharp\Ret Keywords\bin\Debug\net8.0\Ret Keywords.runtimeconfig.json
+C:\Users\kyana\OneDrive\Desktop\see-sharp\Ret Keywords\bin\Debug\net8.0\Ret Keywords.dll
+C:\Users\kyana\OneDrive\Desktop\see-sharp\Ret Keywords\bin\Debug\net8.0\Ret Keywords.pdb
+C:\Users\kyana\OneDrive\Desktop\see-sharp\Ret Keywords\obj\Debug\net8.0\Ret Keywords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyana\OneDrive\Desktop\see-sharp\Ret Keywords\obj\Debug\net8.0\Ret Keywords.AssemblyInfoInputs.cache
+C:\Users\kyana\OneDrive\Desktop\see-sharp\Ret Keywords\obj\Debug\net8.0\Ret Keywords.AssemblyInfo.cs
+C:\Users\kyana\OneDrive\Desktop\see-sharp\Ret Keywords\obj\Debug\net8.0\Ret Keywords.csproj.CoreCompileInputs.cache
+C:\Users\kyana\OneDrive\Desktop\see-sharp\Ret Keywords\obj\Debug\net8.0\Ret Keywords.sourcelink.json
+C:\Users\kyana\OneDrive\Desktop\see-sharp\Ret Keywords\obj\Debug\net8.0\Ret Keywords.dll
+C:\Users\kyana\OneDrive\Desktop\see-sharp\Ret Keywords\obj\Debug\net8.0\refint\Ret Keywords.dll
+C:\Users\kyana\OneDrive\Desktop\see-sharp\Ret Keywords\obj\Debug\net8.0\Ret Keywords.pdb
+C:\Users\kyana\OneDrive\Desktop\see-sharp\Ret Keywords\obj\Debug\net8.0\Ret Keywords.genruntimeconfig.cache
+C:\Users\kyana\OneDrive\Desktop\see-sharp\Ret Keywords\obj\Debug\net8.0\ref\Ret Keywords.dll
