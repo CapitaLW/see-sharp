@@ -1,0 +1,15 @@
+C:\Users\kyana\OneDrive\Desktop\see-sharp\Quickpractice clac\obj\Debug\net8.0\Quickpractice clac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyana\OneDrive\Desktop\see-sharp\Quickpractice clac\obj\Debug\net8.0\Quickpractice clac.AssemblyInfoInputs.cache
+C:\Users\kyana\OneDrive\Desktop\see-sharp\Quickpractice clac\obj\Debug\net8.0\Quickpractice clac.AssemblyInfo.cs
+C:\Users\kyana\OneDrive\Desktop\see-sharp\Quickpractice clac\obj\Debug\net8.0\Quickpractice clac.csproj.CoreCompileInputs.cache
+C:\Users\kyana\OneDrive\Desktop\see-sharp\Quickpractice clac\obj\Debug\net8.0\Quickpractice clac.sourcelink.json
+C:\Users\kyana\OneDrive\Desktop\see-sharp\Quickpractice clac\bin\Debug\net8.0\Quickpractice clac.exe
+C:\Users\kyana\OneDrive\Desktop\see-sharp\Quickpractice clac\bin\Debug\net8.0\Quickpractice clac.deps.json
+C:\Users\kyana\OneDrive\Desktop\see-sharp\Quickpractice clac\bin\Debug\net8.0\Quickpractice clac.runtimeconfig.json
+C:\Users\kyana\OneDrive\Desktop\see-sharp\Quickpractice clac\bin\Debug\net8.0\Quickpractice clac.dll
+C:\Users\kyana\OneDrive\Desktop\see-sharp\Quickpractice clac\bin\Debug\net8.0\Quickpractice clac.pdb
+C:\Users\kyana\OneDrive\Desktop\see-sharp\Quickpractice clac\obj\Debug\net8.0\Quickpractice clac.dll
+C:\Users\kyana\OneDrive\Desktop\see-sharp\Quickpractice clac\obj\Debug\net8.0\refint\Quickpractice clac.dll
+C:\Users\kyana\OneDrive\Desktop\see-sharp\Quickpractice clac\obj\Debug\net8.0\Quickpractice clac.pdb
+C:\Users\kyana\OneDrive\Desktop\see-sharp\Quickpractice clac\obj\Debug\net8.0\Quickpractice clac.genruntimeconfig.cache
+C:\Users\kyana\OneDrive\Desktop\see-sharp\Quickpractice clac\obj\Debug\net8.0\ref\Quickpractice clac.dll

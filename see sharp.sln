@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BRUUUB", "BRUUUB\BRUUUB.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ret Keywords", "Ret Keywords\Ret Keywords.csproj", "{D243539F-8E03-4D8A-A117-1D37568D6635}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quickpractice clac", "Quickpractice clac\Quickpractice clac.csproj", "{6E8A7798-1B1B-48A1-B2DE-5A90A0F56F58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{D243539F-8E03-4D8A-A117-1D37568D6635}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D243539F-8E03-4D8A-A117-1D37568D6635}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D243539F-8E03-4D8A-A117-1D37568D6635}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E8A7798-1B1B-48A1-B2DE-5A90A0F56F58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E8A7798-1B1B-48A1-B2DE-5A90A0F56F58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E8A7798-1B1B-48A1-B2DE-5A90A0F56F58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E8A7798-1B1B-48A1-B2DE-5A90A0F56F58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
