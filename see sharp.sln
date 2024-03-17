@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quickpractice clac", "Quick
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method overloading", "Method overloading\Method overloading.csproj", "{61EA88E4-3200-4EDD-AAFE-D80D1CEF7402}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TdL", "TdL\TdL.csproj", "{B1BA6652-6F36-4AAE-A718-EA38EB93136D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +74,9 @@ Global
 		{61EA88E4-3200-4EDD-AAFE-D80D1CEF7402}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61EA88E4-3200-4EDD-AAFE-D80D1CEF7402}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61EA88E4-3200-4EDD-AAFE-D80D1CEF7402}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1BA6652-6F36-4AAE-A718-EA38EB93136D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1BA6652-6F36-4AAE-A718-EA38EB93136D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1BA6652-6F36-4AAE-A718-EA38EB93136D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1BA6652-6F36-4AAE-A718-EA38EB93136D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
