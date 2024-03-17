@@ -1,0 +1,15 @@
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\PramsKW\bin\Debug\net8.0\PramsKW.exe
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\PramsKW\bin\Debug\net8.0\PramsKW.deps.json
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\PramsKW\bin\Debug\net8.0\PramsKW.runtimeconfig.json
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\PramsKW\bin\Debug\net8.0\PramsKW.dll
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\PramsKW\bin\Debug\net8.0\PramsKW.pdb
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\PramsKW\obj\Debug\net8.0\PramsKW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\PramsKW\obj\Debug\net8.0\PramsKW.AssemblyInfoInputs.cache
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\PramsKW\obj\Debug\net8.0\PramsKW.AssemblyInfo.cs
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\PramsKW\obj\Debug\net8.0\PramsKW.csproj.CoreCompileInputs.cache
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\PramsKW\obj\Debug\net8.0\PramsKW.sourcelink.json
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\PramsKW\obj\Debug\net8.0\PramsKW.dll
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\PramsKW\obj\Debug\net8.0\refint\PramsKW.dll
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\PramsKW\obj\Debug\net8.0\PramsKW.pdb
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\PramsKW\obj\Debug\net8.0\PramsKW.genruntimeconfig.cache
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\PramsKW\obj\Debug\net8.0\ref\PramsKW.dll
