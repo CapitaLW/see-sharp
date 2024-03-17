@@ -26,7 +26,7 @@ Console.WriteLine("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Console.WriteLine("           What would you like to buy?   ~~ your current balance is " + "" + PoorerBalance + " ~~"         );
 Console.WriteLine("    type the item number of an item to purchase separate itemsusing commas or type EXIT to exit.   ");
 Console.WriteLine("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
-Console.Write("Numbers go here ~~> ");
+Console.Write(" Item Numbers go here ~~> ");
 
 
 (string name, double price)[] items =
