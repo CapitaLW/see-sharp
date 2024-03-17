@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Quickpractice clac")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a0b429b507740955902d7d8c714d6898b8bf2e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Quickpractice clac")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Quickpractice clac")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
