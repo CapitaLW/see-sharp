@@ -18,13 +18,13 @@ Console.WriteLine("                                            Buy Things!!!!   
 Console.WriteLine("---------------------------------------------------------------------------------------------------");
 Console.WriteLine("                                                                                                   ");
 Console.WriteLine("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~--SToRE--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
-Console.WriteLine("|1: irradiated Tshirts 77.22   |2:    Pants 19.22 |3: Shoes 12.22    |4: Pluh mobile 10.22   | ");
-Console.WriteLine("|5: sus potion *Out of Stock*   |6:   Sponge 16.22 |7: Needles 1.22   |8:  Bacon 111.22       | ");
-Console.WriteLine("|9; omega turkey bacon 18.22   |10:  Eggs  14.22  |11: Pee Jouce 220 |12: Dababy car 10000   | ");
+Console.WriteLine("   |1: irradiated Tshirts 77.22   |2: Pants 19.22  |3: Shoes 12.22    |4: Pluh mobile 10.22      | ");
+Console.WriteLine("   |5: sus potions *Out of Stock* |6: Sponge 16.22 |7: Needles 1.22   |8:  Bacon 111.22          | ");
+Console.WriteLine("   |9: omega's turkey bacon 18.22 |10: Eggs  14.22 |11: Pee Jouce 220 |12: Dababy car 10000      | ");
 Console.WriteLine("                              New items and restocking coming soon!                                ");
 Console.WriteLine("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
-Console.WriteLine("           What would you like to buy?   ~~ your current balance is " + "" + PoorerBalance + " ~~"         );
-Console.WriteLine("    type the item number of an item to purchase separate itemsusing commas or type EXIT to exit.   ");
+Console.WriteLine("             What would you like to buy?   ~~ your current balance is " + "$" + PoorerBalance + " ~~"        );
+Console.WriteLine("               type the item number of an item to purchase it or type EXIT to exit.                ");
 Console.WriteLine("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
 Console.Write(" Item Numbers go here ~~> ");
 
