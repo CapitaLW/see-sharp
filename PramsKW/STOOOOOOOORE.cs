@@ -60,11 +60,12 @@ while (true){
                 {
                     var selectedItem = items[selectedItemIndex - 1];
 
+
                     if (selectedItem.price > 0)
                     {
                         if (Math.Round(PoorerBalance) >= selectedItem.price)
                         {
-                            PoorerBalance -= selectedItem.price;
+
                             Console.WriteLine($"You have purchased {selectedItem.name} for ${selectedItem.price}. Your new balance is ${Math.Round(PoorerBalance)}.");
                         }
                         else

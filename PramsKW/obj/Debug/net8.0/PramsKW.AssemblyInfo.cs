@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PramsKW")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+957d5cf3f53c8efe0d7727a0029f62db318bf361")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ab03154b9097841d49a7661758f433dac0014b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("PramsKW")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PramsKW")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
