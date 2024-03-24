@@ -1,5 +1,4 @@
-﻿// only needing a single method to accept a variable number of arguments
-
+﻿
  Console.Clear();
         DisplayLoadingBar("Loading store...", 50, 100);
         Console.Clear();
@@ -94,14 +93,12 @@ Console.WriteLine("");
 
 Console.WriteLine("Thanks for shopping at kEWL stoRE!!!!");
 
- 
         DisplayLoadingBar("Clearing...", 50, 100);
         Console.Clear();
 
 // PLUHHHH
 Console.ReadKey();
 // who up wonking they willy nilly???
-
     static void DisplayLoadingBar(string message, int totalWidth, int millisecondsPerFrame)
     {
         int progress = 0; // Initial progress
