@@ -1,0 +1,15 @@
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\LoginPageBecauseICan\bin\Debug\net8.0\LoginPageBecauseICan.exe
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\LoginPageBecauseICan\bin\Debug\net8.0\LoginPageBecauseICan.deps.json
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\LoginPageBecauseICan\bin\Debug\net8.0\LoginPageBecauseICan.runtimeconfig.json
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\LoginPageBecauseICan\bin\Debug\net8.0\LoginPageBecauseICan.dll
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\LoginPageBecauseICan\bin\Debug\net8.0\LoginPageBecauseICan.pdb
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\LoginPageBecauseICan\obj\Debug\net8.0\LoginPageBecauseICan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\LoginPageBecauseICan\obj\Debug\net8.0\LoginPageBecauseICan.AssemblyInfoInputs.cache
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\LoginPageBecauseICan\obj\Debug\net8.0\LoginPageBecauseICan.AssemblyInfo.cs
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\LoginPageBecauseICan\obj\Debug\net8.0\LoginPageBecauseICan.csproj.CoreCompileInputs.cache
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\LoginPageBecauseICan\obj\Debug\net8.0\LoginPageBecauseICan.sourcelink.json
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\LoginPageBecauseICan\obj\Debug\net8.0\LoginPageBecauseICan.dll
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\LoginPageBecauseICan\obj\Debug\net8.0\refint\LoginPageBecauseICan.dll
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\LoginPageBecauseICan\obj\Debug\net8.0\LoginPageBecauseICan.pdb
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\LoginPageBecauseICan\obj\Debug\net8.0\LoginPageBecauseICan.genruntimeconfig.cache
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\LoginPageBecauseICan\obj\Debug\net8.0\ref\LoginPageBecauseICan.dll
