@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginPageBecauseICan", "LoginPageBecauseICan\LoginPageBecauseICan.csproj", "{2AFCFA94-4BD8-498D-95C0-E096EF8B10EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASCiiDonut", "ASCiiDonut\ASCiiDonut.csproj", "{66FED21C-18B1-468D-9FF4-B29749145C49}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{2AFCFA94-4BD8-498D-95C0-E096EF8B10EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2AFCFA94-4BD8-498D-95C0-E096EF8B10EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2AFCFA94-4BD8-498D-95C0-E096EF8B10EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66FED21C-18B1-468D-9FF4-B29749145C49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66FED21C-18B1-468D-9FF4-B29749145C49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66FED21C-18B1-468D-9FF4-B29749145C49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66FED21C-18B1-468D-9FF4-B29749145C49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
