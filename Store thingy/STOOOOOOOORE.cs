@@ -1,6 +1,28 @@
 ﻿// only needing a single method to accept a variable number of arguments
 Console.Clear();
 
+int totalWidth = 50; // Total width of the loading bar
+        int millisecondsPerFrame = 100; // Duration of each frame in milliseconds
+        int progress = 0; // Initial progress
+
+        Console.WriteLine("Loading store...");
+
+        while (progress <= totalWidth)
+        {
+            Console.Write("[");
+            for (int i = 0; i < totalWidth; i++)
+            {
+                if (i < progress)
+                    Console.Write("#"); // Draw filled portion
+                else
+                    Console.Write("-"); // Draw empty portion
+            }
+            Console.Write("] " + (progress * 100 / totalWidth) + "%");
+            Thread.Sleep(millisecondsPerFrame); // Pause for a short duration
+            Console.SetCursorPosition(0, Console.CursorTop); // Move cursor to beginning of line
+            progress++; // Increment progress
+            }
+Console.Clear();
 
   Random balance = new Random();
     double _ = 10 + (10000 - 10) * balance.NextDouble();

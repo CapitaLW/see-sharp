@@ -1,4 +1,4 @@
-﻿// Ascii donut, Powered by ChatGpt because i aint writing thisa bullshit
+﻿// Ascii donut, Powered by ChatGpt because i aint writing this bullshit
 
  /*
 double A = 0, B = 0, i, j;
