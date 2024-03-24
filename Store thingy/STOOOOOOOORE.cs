@@ -1,28 +1,9 @@
 ﻿// only needing a single method to accept a variable number of arguments
-Console.Clear();
 
-int totalWidth = 50; // Total width of the loading bar
-        int millisecondsPerFrame = 100; // Duration of each frame in milliseconds
-        int progress = 0; // Initial progress
-
-        Console.WriteLine("Loading store...");
-
-        while (progress <= totalWidth)
-        {
-            Console.Write("[");
-            for (int i = 0; i < totalWidth; i++)
-            {
-                if (i < progress)
-                    Console.Write("#"); // Draw filled portion
-                else
-                    Console.Write("-"); // Draw empty portion
-            }
-            Console.Write("] " + (progress * 100 / totalWidth) + "%");
-            Thread.Sleep(millisecondsPerFrame); // Pause for a short duration
-            Console.SetCursorPosition(0, Console.CursorTop); // Move cursor to beginning of line
-            progress++; // Increment progress
-            }
-Console.Clear();
+ Console.Clear();
+        DisplayLoadingBar("Loading store...", 50, 100);
+        Console.Clear();
+;
 
   Random balance = new Random();
     double _ = 10 + (10000 - 10) * balance.NextDouble();
@@ -113,11 +94,18 @@ Console.WriteLine("");
 
 Console.WriteLine("Thanks for shopping at kEWL stoRE!!!!");
 
-int totalWidth = 50; // Total width of the loading bar
-        int millisecondsPerFrame = 100; // Duration of each frame in milliseconds
-        int progress = 0; // Initial progress
+ 
+        DisplayLoadingBar("Clearing...", 50, 100);
+        Console.Clear();
 
-        Console.WriteLine("Clearing...");
+// PLUHHHH
+Console.ReadKey();
+// who up wonking they willy nilly???
+
+    static void DisplayLoadingBar(string message, int totalWidth, int millisecondsPerFrame)
+    {
+        int progress = 0; // Initial progress
+        Console.WriteLine(message);
 
         while (progress <= totalWidth)
         {
@@ -131,11 +119,8 @@ int totalWidth = 50; // Total width of the loading bar
             }
             Console.Write("] " + (progress * 100 / totalWidth) + "%");
             Thread.Sleep(millisecondsPerFrame); // Pause for a short duration
-            Console.SetCursorPosition(0, Console.CursorTop); // Move cursor to beginning of line
+            Console.SetCursorPosition(0, Console.CursorTop - 1); // Move cursor up to beginning of the loading bar
             progress++; // Increment progress
-            }
-Console.Clear();
-
-// PLUHHHH
-Console.ReadKey();
-// who up wonking they willy nilly???
+        }
+        Console.WriteLine(); // To move the cursor to the next line after finishing
+    }
