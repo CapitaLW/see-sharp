@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASCiiDonut", "ASCiiDonut\AS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Params Keyword", "Params Keyword\Params Keyword.csproj", "{E16E93F9-C2AD-4B3E-BBC5-A65115353631}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Whar", "Whar\Whar.csproj", "{7448EE6C-094A-440D-919C-E5F53A9CE41F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{E16E93F9-C2AD-4B3E-BBC5-A65115353631}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E16E93F9-C2AD-4B3E-BBC5-A65115353631}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E16E93F9-C2AD-4B3E-BBC5-A65115353631}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7448EE6C-094A-440D-919C-E5F53A9CE41F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7448EE6C-094A-440D-919C-E5F53A9CE41F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7448EE6C-094A-440D-919C-E5F53A9CE41F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7448EE6C-094A-440D-919C-E5F53A9CE41F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

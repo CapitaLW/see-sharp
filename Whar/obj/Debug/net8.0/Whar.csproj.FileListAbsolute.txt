@@ -1,0 +1,15 @@
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\Whar\bin\Debug\net8.0\Whar.exe
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\Whar\bin\Debug\net8.0\Whar.deps.json
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\Whar\bin\Debug\net8.0\Whar.runtimeconfig.json
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\Whar\bin\Debug\net8.0\Whar.dll
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\Whar\bin\Debug\net8.0\Whar.pdb
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\Whar\obj\Debug\net8.0\Whar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\Whar\obj\Debug\net8.0\Whar.AssemblyInfoInputs.cache
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\Whar\obj\Debug\net8.0\Whar.AssemblyInfo.cs
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\Whar\obj\Debug\net8.0\Whar.csproj.CoreCompileInputs.cache
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\Whar\obj\Debug\net8.0\Whar.sourcelink.json
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\Whar\obj\Debug\net8.0\Whar.dll
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\Whar\obj\Debug\net8.0\refint\Whar.dll
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\Whar\obj\Debug\net8.0\Whar.pdb
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\Whar\obj\Debug\net8.0\Whar.genruntimeconfig.cache
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\Whar\obj\Debug\net8.0\ref\Whar.dll
