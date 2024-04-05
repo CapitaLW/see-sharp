@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LoginPageBecauseICan")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8b5dd8534b346a6b9e54d6e3e013cf49b756d80")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40afce88f28fcec4009803ff341f504aee1a2da7")]
 [assembly: System.Reflection.AssemblyProductAttribute("LoginPageBecauseICan")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LoginPageBecauseICan")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
