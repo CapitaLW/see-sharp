@@ -1,0 +1,15 @@
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\Exeptions\bin\Debug\net8.0\Exeptions.exe
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\Exeptions\bin\Debug\net8.0\Exeptions.deps.json
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\Exeptions\bin\Debug\net8.0\Exeptions.runtimeconfig.json
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\Exeptions\bin\Debug\net8.0\Exeptions.dll
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\Exeptions\bin\Debug\net8.0\Exeptions.pdb
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\Exeptions\obj\Debug\net8.0\Exeptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\Exeptions\obj\Debug\net8.0\Exeptions.AssemblyInfoInputs.cache
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\Exeptions\obj\Debug\net8.0\Exeptions.AssemblyInfo.cs
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\Exeptions\obj\Debug\net8.0\Exeptions.csproj.CoreCompileInputs.cache
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\Exeptions\obj\Debug\net8.0\Exeptions.sourcelink.json
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\Exeptions\obj\Debug\net8.0\Exeptions.dll
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\Exeptions\obj\Debug\net8.0\refint\Exeptions.dll
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\Exeptions\obj\Debug\net8.0\Exeptions.pdb
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\Exeptions\obj\Debug\net8.0\Exeptions.genruntimeconfig.cache
+C:\Users\kyana\OneDrive\Desktop\Pices Iscariot\see-sharp\Exeptions\obj\Debug\net8.0\ref\Exeptions.dll
