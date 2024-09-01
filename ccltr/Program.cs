@@ -41,15 +41,15 @@ else
 while (calging == true) 
 {
 Console.Clear();
-Console.WriteLine("|--------------------------------------------------------------|");
-Console.WriteLine("|                                      [ Cal - culator ]                            |");
-Console.WriteLine("|     [ + ]             [ - ]                         [ x ]                       [ / ] |");
-Console.WriteLine("| /////////////////////////////////////////////////////////////// |");
-Console.WriteLine("|      Add      |      Subtract      |      Multiply      |      Divide          |"); 
-Console.WriteLine("|                            [ Enter - An - Operation ]           |");
-Console.WriteLine("|-----------------------------------------------------------|");
+Console.WriteLine("|---------------------------------------------------------------------|");
+Console.WriteLine("|                         [ Cal - culator ]                            |");
+Console.WriteLine("|    [ + ]            [ - ]               [ x ]             [ / ]       |");
+Console.WriteLine("|////////////////////////////////////////////////////////////////////////|");
+Console.WriteLine("|     Add      |     Subtract      |     Multiply     |     Divide      |"); 
+Console.WriteLine("|                      [ Enter - An - Operation ]                      |");
+Console.WriteLine("|---------------------------------------------------------------------|");
 
-switch (Console.ReadLine())
+    switch (Console.ReadLine())
 {
 
 }

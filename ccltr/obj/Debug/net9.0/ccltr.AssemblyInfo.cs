@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ccltr")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d902c8612b03509fedbd769b2f668f2b2323833")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1b55e85c6a3430791b759f11fbb915dd38b6533")]
 [assembly: System.Reflection.AssemblyProductAttribute("ccltr")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ccltr")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
