@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "qyQYXSIEumbVnV0gz5rTXwT47FJWnuU+pLk1fct4l99X/gfZr4awEZ2kBYRlX4UWwGSvPlEv316H7/GtHpljFQ==",
+  "dgSpecHash": "Ufin3wr5Dos=",
   "success": true,
-  "projectFilePath": "C:\\Users\\kyana\\OneDrive\\Desktop\\Pices Iscariot\\see-sharp\\ASCiiDonut\\ASCiiDonut.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\kyana\\OneDrive\\Desktop\\see-sharp\\ASCiiDonut\\ASCiiDonut.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kyana\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.7\\microsoft.netcore.app.ref.8.0.7.nupkg.sha512",
+    "C:\\Users\\kyana\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.7\\microsoft.windowsdesktop.app.ref.8.0.7.nupkg.sha512",
+    "C:\\Users\\kyana\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.7\\microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512",
+    "C:\\Users\\kyana\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.7\\microsoft.netcore.app.host.win-x64.8.0.7.nupkg.sha512"
+  ],
   "logs": []
 }

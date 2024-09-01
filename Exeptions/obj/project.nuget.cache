@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "RTaxJbb3kKKt4H7jgqIKiv5OtriW2skhXZZfj/YOVen4ivvGXiaeuUOKmOdAoRwNYPP5YesofCWiZGPnySHphg==",
+  "dgSpecHash": "8/K4jewR5aU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\kyana\\OneDrive\\Desktop\\Pices Iscariot\\see-sharp\\Exeptions\\Exeptions.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\kyana\\OneDrive\\Desktop\\see-sharp\\Exeptions\\Exeptions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kyana\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.7\\microsoft.netcore.app.ref.8.0.7.nupkg.sha512",
+    "C:\\Users\\kyana\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.7\\microsoft.windowsdesktop.app.ref.8.0.7.nupkg.sha512",
+    "C:\\Users\\kyana\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.7\\microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512",
+    "C:\\Users\\kyana\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.7\\microsoft.netcore.app.host.win-x64.8.0.7.nupkg.sha512"
+  ],
   "logs": []
 }

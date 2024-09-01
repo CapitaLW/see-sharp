@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "9u75Dz/A/w/DcxxRETpyVDOonn6+yVFmKvLc7fagIgonWZOsXxsDfsrD2m2kCPuteGalDjdLu7kulZiuAzwX3w==",
+  "dgSpecHash": "DdolPAB7OEM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\kyana\\OneDrive\\Desktop\\Pices Iscariot\\see-sharp\\Whar\\Whar.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\kyana\\OneDrive\\Desktop\\see-sharp\\Whar\\Whar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kyana\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.7\\microsoft.netcore.app.ref.8.0.7.nupkg.sha512",
+    "C:\\Users\\kyana\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.7\\microsoft.windowsdesktop.app.ref.8.0.7.nupkg.sha512",
+    "C:\\Users\\kyana\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.7\\microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512",
+    "C:\\Users\\kyana\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.7\\microsoft.netcore.app.host.win-x64.8.0.7.nupkg.sha512"
+  ],
   "logs": []
 }
