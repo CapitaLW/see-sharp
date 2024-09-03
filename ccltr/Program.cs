@@ -1,6 +1,7 @@
 ﻿Console.Clear();
 double num1 = 0;
 double num2 = 0;
+double result = 0;
 string iscalcing = string.Empty;
 bool calging = false;
 
@@ -33,7 +34,6 @@ else
     iscalcing = String.Empty;
 }
 }
-
 }
 
 ///////////////////////////////////////////////////////////////////////////////////
@@ -48,13 +48,31 @@ Console.WriteLine("|////////////////////////////////////////////////////////////
 Console.WriteLine("|     Add      |     Subtract      |     Multiply     |     Divide      |"); 
 Console.WriteLine("|                      [ Enter - An - Operation ]                      |");
 Console.WriteLine("|---------------------------------------------------------------------|");
+Console.WriteLine("|                      [ Enter - Num  -  1  ]                      |");
 
     switch (Console.ReadLine())
 {
+case "+":
+    result = num1 + num2;
+    Console.WriteLine("its: " + result);
+    break;
+case "-":
+    result = num1 - num2;
+    Console.WriteLine("its: " + result);
+    break;
+case "*":
+    result = num1 * num2;
+    Console.WriteLine("its: " + result);
+    break;
+case "/":
+    result = num1 / num2;
+    Console.WriteLine("its: " + result);
+    break;
+default:
+    Console.WriteLine("Thats Not A Valid Option");
+    break;
 
 }
-
 }
-
 
 Console.ReadKey();

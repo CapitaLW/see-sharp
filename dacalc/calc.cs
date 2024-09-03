@@ -48,7 +48,6 @@ switch (Console.ReadLine())
     default:
         Console.WriteLine("Thats not a valid option");
         break;
-    }
 
     Console.Write("would you like to calculate again? (Y/N): ");
 
