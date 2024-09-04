@@ -13,8 +13,6 @@ Console.WriteLine("Calculate?");
 Console.WriteLine("[ Y ] / [ N ]");
 iscalcing =  Console.ReadLine();
 
-///////////////////////////////////////////////////////////////////////////////////
-
 if (!string.IsNullOrWhiteSpace(iscalcing) && iscalcing.Length == 1)
 {
 char respo = char.ToUpper(iscalcing[0]);
@@ -42,15 +40,19 @@ while (calging == true)
 {
 Console.Clear();
 Console.WriteLine("|---------------------------------------------------------------------|");
-Console.WriteLine("|                         [ Cal - culator ]                            |");
-Console.WriteLine("|    [ + ]            [ - ]               [ x ]             [ / ]       |");
-Console.WriteLine("|////////////////////////////////////////////////////////////////////////|");
-Console.WriteLine("|     Add      |     Subtract      |     Multiply     |     Divide      |"); 
-Console.WriteLine("|                      [ Enter - An - Operation ]                      |");
+Console.WriteLine("|                         [ Cal - culator ]                           |");
+Console.WriteLine("|    [ + ]            [ - ]               [ x ]             [ / ]     |");
+Console.WriteLine("|/////////////////////////////////////////////////////////////////////|");
+Console.WriteLine("|     Add      |     Subtract      |     Multiply     |     Divide    |"); 
+Console.WriteLine("                         [ Enter - Num  -  1  ]                 ");
+num1 = Convert.ToDouble(Console.ReadLine());
+Console.WriteLine("                         [ Enter - Num  -  2  ]                ");
+num2 = Convert.ToDouble(Console.ReadLine());
+Console.WriteLine("                       [ Enter - An - Operation ]                      ");
 Console.WriteLine("|---------------------------------------------------------------------|");
-Console.WriteLine("|                      [ Enter - Num  -  1  ]                      |");
+switch (Console.ReadLine())
 
-    switch (Console.ReadLine())
+
 {
 case "+":
     result = num1 + num2;
@@ -71,8 +73,8 @@ case "/":
 default:
     Console.WriteLine("Thats Not A Valid Option");
     break;
-
-}
 }
 
-Console.ReadKey();
+
+Thread.Sleep (5300);
+Console.WriteLine(" Calculate Again? [ Y / N ]");

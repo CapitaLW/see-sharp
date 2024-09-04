@@ -27,7 +27,7 @@ System.Console.Write("Enter an option: ");
 
 // determines what mathematical operation to perform!
 switch (Console.ReadLine())
-{
+
     case "+":
         result = num1 + num2;
         Console.WriteLine("it's: " + result);
