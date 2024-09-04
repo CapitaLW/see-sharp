@@ -53,37 +53,78 @@ while (calging == true)
             {
                 result = num1 + num2;
                 Console.WriteLine("its: " + result);
+                Console.WriteLine("|---------------------------------------------------------------------|");
                 break;
             }
         case "-":
             {
                 result = num1 - num2;
                 Console.WriteLine("its: " + result);
+                Console.WriteLine("|---------------------------------------------------------------------|");
                 break;
             }
         case "*":
             {
                 result = num1 * num2;
                 Console.WriteLine("its: " + result);
+                Console.WriteLine("|---------------------------------------------------------------------|");
                 break;
             }
         case "/":
             {
                 result = num1 / num2;
                 Console.WriteLine("its: " + result);
+                Console.WriteLine("|---------------------------------------------------------------------|");
                 break;
             }
         default:
             {
                 Console.WriteLine("Thats Not A Valid Option");
+                Thread.Sleep (6000);
+                Console.Clear();
                 break;
             }
     }
 
-
-    Thread.Sleep(3000);
+    Thread.Sleep(2000);
     Console.WriteLine(" Calculate Again? [ Y / N ]");
-    Console.ReadLine();
+    while (string.IsNullOrWhiteSpace(iscalcing) || iscalcing.Length != 1)
+    {
+
+        Console.WriteLine("Calculate?");
+        Console.WriteLine("[ Y ] / [ N ]");
+        iscalcing = Console.ReadLine();
+
+        if (iscalcing.Length == 1)
+        {
+            char respo = char.ToUpper(iscalcing[0]);
+
+            if (respo == 'N')
+            {
+                calging = false;
+                break;
+            }
+            else if (respo == 'Y')
+            {
+                calging = true;
+                break;
+            }
+            else
+            {
+                calging = false;
+            }
+        }
+    }
 }
 
-Console.ReadKey();
+String closing = "Closing";
+
+Console.Write(closing);
+for (int i = 0; i < 3; i++);
+{
+    Thread.Sleep (500);
+    Console.Write(".");
+}
+
+Console.WriteLine("Closed!");
+Thread.Sleep (2000);

@@ -1,0 +1,15 @@
+C:\Users\kyana\OneDrive\Desktop\see-sharp\war\bin\Debug\net8.0\war.exe
+C:\Users\kyana\OneDrive\Desktop\see-sharp\war\bin\Debug\net8.0\war.deps.json
+C:\Users\kyana\OneDrive\Desktop\see-sharp\war\bin\Debug\net8.0\war.runtimeconfig.json
+C:\Users\kyana\OneDrive\Desktop\see-sharp\war\bin\Debug\net8.0\war.dll
+C:\Users\kyana\OneDrive\Desktop\see-sharp\war\bin\Debug\net8.0\war.pdb
+C:\Users\kyana\OneDrive\Desktop\see-sharp\war\obj\Debug\net8.0\war.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyana\OneDrive\Desktop\see-sharp\war\obj\Debug\net8.0\war.AssemblyInfoInputs.cache
+C:\Users\kyana\OneDrive\Desktop\see-sharp\war\obj\Debug\net8.0\war.AssemblyInfo.cs
+C:\Users\kyana\OneDrive\Desktop\see-sharp\war\obj\Debug\net8.0\war.csproj.CoreCompileInputs.cache
+C:\Users\kyana\OneDrive\Desktop\see-sharp\war\obj\Debug\net8.0\war.sourcelink.json
+C:\Users\kyana\OneDrive\Desktop\see-sharp\war\obj\Debug\net8.0\war.dll
+C:\Users\kyana\OneDrive\Desktop\see-sharp\war\obj\Debug\net8.0\refint\war.dll
+C:\Users\kyana\OneDrive\Desktop\see-sharp\war\obj\Debug\net8.0\war.pdb
+C:\Users\kyana\OneDrive\Desktop\see-sharp\war\obj\Debug\net8.0\war.genruntimeconfig.cache
+C:\Users\kyana\OneDrive\Desktop\see-sharp\war\obj\Debug\net8.0\ref\war.dll
