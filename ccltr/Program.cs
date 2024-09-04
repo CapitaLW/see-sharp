@@ -34,14 +34,12 @@ else
 }
 }
 
-///////////////////////////////////////////////////////////////////////////////////
-
 while (calging == true) 
 {
 Console.Clear();
 Console.WriteLine("|---------------------------------------------------------------------|");
 Console.WriteLine("|                         [ Cal - culator ]                           |");
-Console.WriteLine("|    [ + ]            [ - ]               [ x ]             [ / ]     |");
+Console.WriteLine("|    [ + ]            [ - ]               [ * ]             [ / ]     |");
 Console.WriteLine("|/////////////////////////////////////////////////////////////////////|");
 Console.WriteLine("|     Add      |     Subtract      |     Multiply     |     Divide    |"); 
 Console.WriteLine("                         [ Enter - Num  -  1  ]                 ");
@@ -50,6 +48,7 @@ Console.WriteLine("                         [ Enter - Num  -  2  ]              
 num2 = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine("                       [ Enter - An - Operation ]                      ");
 Console.WriteLine("|---------------------------------------------------------------------|");
+
 switch (Console.ReadLine())
 {
 case "+":
@@ -86,3 +85,9 @@ default:
 
 Thread.Sleep (3000);
 Console.WriteLine(" Calculate Again? [ Y / N ]");
+Console.ReadLine();
+}
+
+
+
+Console.ReadKey();
