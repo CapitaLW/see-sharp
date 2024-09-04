@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exeptions", "Exeptions\Exep
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ccltr", "ccltr\ccltr.csproj", "{E1B63A04-BF3D-42DD-B6E2-1564E44044DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "war", "war\war.csproj", "{C9246A06-B495-415F-9055-E4EAF7AE6DD0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{E1B63A04-BF3D-42DD-B6E2-1564E44044DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1B63A04-BF3D-42DD-B6E2-1564E44044DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1B63A04-BF3D-42DD-B6E2-1564E44044DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9246A06-B495-415F-9055-E4EAF7AE6DD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9246A06-B495-415F-9055-E4EAF7AE6DD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9246A06-B495-415F-9055-E4EAF7AE6DD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9246A06-B495-415F-9055-E4EAF7AE6DD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
