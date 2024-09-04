@@ -5,8 +5,6 @@ double result = 0;
 string iscalcing = string.Empty;
 bool calging = false;
 
-///////////////////////////////////////////////////////////////////////////////////
-
 while (string.IsNullOrWhiteSpace(iscalcing) || iscalcing.Length != 1)
 {
 Console.WriteLine("Calculate?");
@@ -87,7 +85,5 @@ Thread.Sleep (3000);
 Console.WriteLine(" Calculate Again? [ Y / N ]");
 Console.ReadLine();
 }
-
-
 
 Console.ReadKey();
