@@ -45,7 +45,6 @@ while (calging == true)
     Console.WriteLine("                         [ Enter - Num  -  2  ]                ");
     num2 = Convert.ToDouble(Console.ReadLine());
     Console.WriteLine("                       [ Enter - An - Operation ]                      ");
-    Console.WriteLine("|---------------------------------------------------------------------|");
 
     switch (Console.ReadLine())
     {
@@ -82,16 +81,15 @@ while (calging == true)
                 Console.WriteLine("Thats Not A Valid Option");
                 Thread.Sleep (6000);
                 Console.Clear();
-                break;
+                continue;
             }
     }
 
     Thread.Sleep(2000);
-    Console.WriteLine(" Calculate Again? [ Y / N ]");
+    iscalcing = string.Empty;
     while (string.IsNullOrWhiteSpace(iscalcing) || iscalcing.Length != 1)
     {
-
-        Console.WriteLine("Calculate?");
+        Console.WriteLine("Calculate again?");
         Console.WriteLine("[ Y ] / [ N ]");
         iscalcing = Console.ReadLine();
 
@@ -116,15 +114,15 @@ while (calging == true)
         }
     }
 }
-
+Console.Clear();
 String closing = "Closing";
-
 Console.Write(closing);
-for (int i = 0; i < 3; i++);
+for (int i = 0; i < 3; i++)
 {
     Thread.Sleep (500);
     Console.Write(".");
 }
-
+Thread.Sleep (500);
+Console.Clear();
 Console.WriteLine("Closed!");
 Thread.Sleep (2000);
