@@ -51,30 +51,38 @@ num2 = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine("                       [ Enter - An - Operation ]                      ");
 Console.WriteLine("|---------------------------------------------------------------------|");
 switch (Console.ReadLine())
-
-
 {
 case "+":
+{
     result = num1 + num2;
     Console.WriteLine("its: " + result);
     break;
+}
 case "-":
+{
     result = num1 - num2;
     Console.WriteLine("its: " + result);
     break;
+}
 case "*":
+{
     result = num1 * num2;
     Console.WriteLine("its: " + result);
     break;
+}
 case "/":
+{
     result = num1 / num2;
     Console.WriteLine("its: " + result);
     break;
+}
 default:
+{
     Console.WriteLine("Thats Not A Valid Option");
     break;
 }
+}
 
 
-Thread.Sleep (5300);
+Thread.Sleep (3000);
 Console.WriteLine(" Calculate Again? [ Y / N ]");
