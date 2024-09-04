@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ccltr", "ccltr\ccltr.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "war", "war\war.csproj", "{C9246A06-B495-415F-9055-E4EAF7AE6DD0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{030C8483-7C9C-48F4-A471-1C2585A34B3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUESS OR ELSE", "GUESS OR ELSE\GUESS OR ELSE.csproj", "{28BD8D5E-ABF2-4391-B941-FAB133840C6D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +58,13 @@ Global
 		{C9246A06-B495-415F-9055-E4EAF7AE6DD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9246A06-B495-415F-9055-E4EAF7AE6DD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9246A06-B495-415F-9055-E4EAF7AE6DD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{030C8483-7C9C-48F4-A471-1C2585A34B3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{030C8483-7C9C-48F4-A471-1C2585A34B3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{030C8483-7C9C-48F4-A471-1C2585A34B3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{030C8483-7C9C-48F4-A471-1C2585A34B3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28BD8D5E-ABF2-4391-B941-FAB133840C6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28BD8D5E-ABF2-4391-B941-FAB133840C6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28BD8D5E-ABF2-4391-B941-FAB133840C6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28BD8D5E-ABF2-4391-B941-FAB133840C6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
