@@ -3,3 +3,13 @@ C:\Users\kyana\OneDrive\Desktop\see-sharp\NAWL\obj\Debug\net8.0\NAWL.AssemblyInf
 C:\Users\kyana\OneDrive\Desktop\see-sharp\NAWL\obj\Debug\net8.0\NAWL.AssemblyInfo.cs
 C:\Users\kyana\OneDrive\Desktop\see-sharp\NAWL\obj\Debug\net8.0\NAWL.csproj.CoreCompileInputs.cache
 C:\Users\kyana\OneDrive\Desktop\see-sharp\NAWL\obj\Debug\net8.0\NAWL.sourcelink.json
+C:\Users\kyana\OneDrive\Desktop\see-sharp\NAWL\bin\Debug\net8.0\NAWL.exe
+C:\Users\kyana\OneDrive\Desktop\see-sharp\NAWL\bin\Debug\net8.0\NAWL.deps.json
+C:\Users\kyana\OneDrive\Desktop\see-sharp\NAWL\bin\Debug\net8.0\NAWL.runtimeconfig.json
+C:\Users\kyana\OneDrive\Desktop\see-sharp\NAWL\bin\Debug\net8.0\NAWL.dll
+C:\Users\kyana\OneDrive\Desktop\see-sharp\NAWL\bin\Debug\net8.0\NAWL.pdb
+C:\Users\kyana\OneDrive\Desktop\see-sharp\NAWL\obj\Debug\net8.0\NAWL.dll
+C:\Users\kyana\OneDrive\Desktop\see-sharp\NAWL\obj\Debug\net8.0\refint\NAWL.dll
+C:\Users\kyana\OneDrive\Desktop\see-sharp\NAWL\obj\Debug\net8.0\NAWL.pdb
+C:\Users\kyana\OneDrive\Desktop\see-sharp\NAWL\obj\Debug\net8.0\NAWL.genruntimeconfig.cache
+C:\Users\kyana\OneDrive\Desktop\see-sharp\NAWL\obj\Debug\net8.0\ref\NAWL.dll
