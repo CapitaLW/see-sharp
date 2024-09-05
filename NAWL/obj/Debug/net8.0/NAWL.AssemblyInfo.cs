@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NAWL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+672a7a2c0f56f7b7ca10db13950354420a27a26c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c515cff1446916d4a4620b33da4870746ec7988f")]
 [assembly: System.Reflection.AssemblyProductAttribute("NAWL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NAWL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

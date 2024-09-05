@@ -1,0 +1,5 @@
+C:\Users\kyana\OneDrive\Desktop\see-sharp\NAWL\obj\Debug\net8.0\NAWL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyana\OneDrive\Desktop\see-sharp\NAWL\obj\Debug\net8.0\NAWL.AssemblyInfoInputs.cache
+C:\Users\kyana\OneDrive\Desktop\see-sharp\NAWL\obj\Debug\net8.0\NAWL.AssemblyInfo.cs
+C:\Users\kyana\OneDrive\Desktop\see-sharp\NAWL\obj\Debug\net8.0\NAWL.csproj.CoreCompileInputs.cache
+C:\Users\kyana\OneDrive\Desktop\see-sharp\NAWL\obj\Debug\net8.0\NAWL.sourcelink.json
