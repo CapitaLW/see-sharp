@@ -11,22 +11,24 @@ Console.WriteLine("    Log into Track  ");
 Console.WriteLine("       Time Limit :       ");
 
 PasA = Console. ReadLine();
-If (PasA == presetPassword)
+If (PasA == presetPassword);
 {
     continue;
 }
-else (if PasA != presetPassword)
+
+else (PasA != presetPassword)
 {
     System.Console.WriteLine(" Wrong Password!");
     p = false;
 }
 
 UseA = Console.ReadLine();
-if (UseA == presetUsername && p = true)
+if (UseA == presetUsername && p = true);
 { 
     continue;
 }
-else (if UseA != presetUsername)
+
+else (UseA != presetUsername)
 {
     System.Console.WriteLine(" Incorrect Username or Password! ");
 }

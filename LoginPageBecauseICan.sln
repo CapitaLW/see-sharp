@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUESS OR ELSE", "GUESS OR ELSE\GUESS OR ELSE.csproj", "{28BD8D5E-ABF2-4391-B941-FAB133840C6D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NAWL", "NAWL\NAWL.csproj", "{6FF3B11D-CD6F-4D9F-85C3-7A5CA5804046}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{28BD8D5E-ABF2-4391-B941-FAB133840C6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28BD8D5E-ABF2-4391-B941-FAB133840C6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28BD8D5E-ABF2-4391-B941-FAB133840C6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FF3B11D-CD6F-4D9F-85C3-7A5CA5804046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FF3B11D-CD6F-4D9F-85C3-7A5CA5804046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FF3B11D-CD6F-4D9F-85C3-7A5CA5804046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FF3B11D-CD6F-4D9F-85C3-7A5CA5804046}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
