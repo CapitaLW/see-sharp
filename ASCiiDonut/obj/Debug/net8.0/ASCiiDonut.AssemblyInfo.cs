@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASCiiDonut")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c9d8d9a2a31843bb24c8b7de20b9b650d227791")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2e8a7f59fcc8df7cec03621ccf4a3cdb79e5e61")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASCiiDonut")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASCiiDonut")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

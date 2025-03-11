@@ -1,0 +1,15 @@
+C:\Users\DRAXJ\Desktop\see-sharp\dfsadfsads\bin\Debug\net8.0\dfsadfsads.exe
+C:\Users\DRAXJ\Desktop\see-sharp\dfsadfsads\bin\Debug\net8.0\dfsadfsads.deps.json
+C:\Users\DRAXJ\Desktop\see-sharp\dfsadfsads\bin\Debug\net8.0\dfsadfsads.runtimeconfig.json
+C:\Users\DRAXJ\Desktop\see-sharp\dfsadfsads\bin\Debug\net8.0\dfsadfsads.dll
+C:\Users\DRAXJ\Desktop\see-sharp\dfsadfsads\bin\Debug\net8.0\dfsadfsads.pdb
+C:\Users\DRAXJ\Desktop\see-sharp\dfsadfsads\obj\Debug\net8.0\dfsadfsads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DRAXJ\Desktop\see-sharp\dfsadfsads\obj\Debug\net8.0\dfsadfsads.AssemblyInfoInputs.cache
+C:\Users\DRAXJ\Desktop\see-sharp\dfsadfsads\obj\Debug\net8.0\dfsadfsads.AssemblyInfo.cs
+C:\Users\DRAXJ\Desktop\see-sharp\dfsadfsads\obj\Debug\net8.0\dfsadfsads.csproj.CoreCompileInputs.cache
+C:\Users\DRAXJ\Desktop\see-sharp\dfsadfsads\obj\Debug\net8.0\dfsadfsads.sourcelink.json
+C:\Users\DRAXJ\Desktop\see-sharp\dfsadfsads\obj\Debug\net8.0\dfsadfsads.dll
+C:\Users\DRAXJ\Desktop\see-sharp\dfsadfsads\obj\Debug\net8.0\refint\dfsadfsads.dll
+C:\Users\DRAXJ\Desktop\see-sharp\dfsadfsads\obj\Debug\net8.0\dfsadfsads.pdb
+C:\Users\DRAXJ\Desktop\see-sharp\dfsadfsads\obj\Debug\net8.0\dfsadfsads.genruntimeconfig.cache
+C:\Users\DRAXJ\Desktop\see-sharp\dfsadfsads\obj\Debug\net8.0\ref\dfsadfsads.dll

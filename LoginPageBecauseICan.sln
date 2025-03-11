@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUESS OR ELSE", "GUESS OR E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NAWL", "NAWL\NAWL.csproj", "{6FF3B11D-CD6F-4D9F-85C3-7A5CA5804046}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dfsadfsads", "dfsadfsads\dfsadfsads.csproj", "{031B9D46-92AD-47C2-8D2F-25A4F3453965}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +74,9 @@ Global
 		{6FF3B11D-CD6F-4D9F-85C3-7A5CA5804046}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FF3B11D-CD6F-4D9F-85C3-7A5CA5804046}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FF3B11D-CD6F-4D9F-85C3-7A5CA5804046}.Release|Any CPU.Build.0 = Release|Any CPU
+		{031B9D46-92AD-47C2-8D2F-25A4F3453965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{031B9D46-92AD-47C2-8D2F-25A4F3453965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{031B9D46-92AD-47C2-8D2F-25A4F3453965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{031B9D46-92AD-47C2-8D2F-25A4F3453965}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
