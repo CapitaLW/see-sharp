@@ -1,6 +1,3 @@
-﻿// Ascii donut, Powered by ChatGpt because i aint writing this bullshit
-
- /*
 double A = 0, B = 0, i, j;
         double[] z = new double[1760];
         char[] b = new char[1760];
@@ -43,12 +40,7 @@ double A = 0, B = 0, i, j;
             A += 0.04;
             B += 0.01;
         }
-*/
 
-// idek how it works
-
-
-/* int totalWidth = 50; // Total width of the loading bar
         int millisecondsPerFrame = 100; // Duration of each frame in milliseconds
         int progress = 0; // Initial progress
 
@@ -69,5 +61,5 @@ double A = 0, B = 0, i, j;
             Console.SetCursorPosition(0, Console.CursorTop); // Move cursor to beginning of line
             progress++; // Increment progress
             }
-            // also dont know how it works
 */
+
